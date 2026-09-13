@@ -1,5 +1,5 @@
 # About Me:
-##  About Me<br><br>🔭 I’m currently working on AI, Data Science, and Full-Stack Development projects.<br><br>👯 I’m looking to collaborate on Open Source, AI/ML, and Web Development projects.<br><br>🤝 I’m looking for help with System Design, Cloud Computing, and Advanced Machine Learning.<br><br>🌱 I’m currently learning Data Science, Generative AI, React, FastAPI, and Cloud Technologies.<br><br>💬 Ask me about Python, C++, Java, Data Analysis, Git, and Web Development.<br><br>⚡ Fun fact: I enjoy participating in hackathons, boxing after college, and turning ideas into real projects.
+##  About Me<br><br> I’m currently working on AI, Data Science, and Full-Stack Development projects.<br><br> I’m looking to collaborate on Open Source, AI/ML, and Web Development projects.<br><br> I’m looking for help with System Design, Cloud Computing, and Advanced Machine Learning.<br><br> I’m currently learning Data Science, Generative AI, React, FastAPI, and Cloud Technologies.<br><br>💬 Ask me about Python, C++, Java, Data Analysis, Git, and Web Development.<br><br>⚡ Fun fact: I enjoy participating in hackathons, boxing after college, and turning ideas into real projects.
 
 
 ## 🌐 Socials:
